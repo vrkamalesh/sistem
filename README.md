@@ -1,3 +1,2 @@
 # asrama
-# asramagit
-# sistem
+
